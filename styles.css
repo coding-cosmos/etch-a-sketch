@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+    width: 350px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 0 auto;
+    flex-wrap: wrap;    
+   
+}
+
+.fill{
+    background-color: aqua;
+}
